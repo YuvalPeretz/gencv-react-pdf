@@ -1,19 +1,18 @@
 {
-  "name": "@react-pdf/types",
-  "version": "2.9.1",
+  "name": "gencv-types",
+  "version": "1.0.0",
   "license": "MIT",
-  "description": "React-pdf TypeScript definitions",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "description": "TypeScript definitions for gencv-react-pdf.",
+  "author": "Yuval Peretz <yuvalperetzj@gmail.com>",
   "main": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/YuvalPeretz/gencv-react-pdf.git",
     "directory": "packages/types"
   },
   "dependencies": {
-    "@react-pdf/font": "^4.0.3",
-    "@react-pdf/primitives": "^4.1.1",
-    "@react-pdf/stylesheet": "^6.1.1"
+    "gencv-font": "^1.0.0",
+    "gencv-primitives": "^1.0.0",
+    "gencv-stylesheet": "^1.0.0"
   }
 }

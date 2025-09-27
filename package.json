@@ -1,12 +1,10 @@
 {
-  "private": true,
-  "name": "@react-pdf/root",
-  "version": "2.0.0",
-  "license": "MIT",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "private": false,
+  "name": "gencv-react-pdf",
+  "version": "1.0.0",
+  "author": "Yuval Peretz <yuvalperetzj@gmail.com>",
   "type": "module",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "repository": "git@github.com:YuvalPeretz/gencv-react-pdf.git",
   "workspaces": [
     "packages/*",
     "packages/examples/*",
